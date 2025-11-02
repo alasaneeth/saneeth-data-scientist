@@ -38,7 +38,7 @@ const Hero = () => {
             <FaLinkedin />
           </a>
           <a
-            href="https://wa.me/+94740822580"
+            href="https://wa.me/+9710568358651"
             target="_blank"
             rel="noopener noreferrer"
             className="!text-green-800  text-2xl transform transition-transform duration-300 hover:scale-150"
